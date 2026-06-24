@@ -130,6 +130,15 @@ def parse_and_write(json_path, input_file, output_csv):
             else:
                 writer.writerow([ip, "dead"])
                 dead_count += 1
+              
+    with open(output_csv, mode='a', newline='', encoding='utf-8') as f:
+    writer = csv.writer(f)
+    writer.writerow([]) 
+    writer.writerow(["Summary", "Count", "Percentage"])
+    writer.writerow(["Total Scanned", total, "100%"])
+    writer.writerow(["Alive", alive_count, f"{alive_count/total*100:.1f}%"])
+    writer.writerow(["Dead", dead_count, f"{dead_count/total*100:.1f}%"])
+
 
     os.unlink(json_path)   
 
