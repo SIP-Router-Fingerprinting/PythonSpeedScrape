@@ -1,55 +1,74 @@
 import pandas as pd
 import plotly.express as px
-from plotly.subplots import make_subplots
 
-# 1. Load your exact CSV file
+# Load your CSV file
 df = pd.read_csv('results_enriched.csv')
 
-# 2. Process your data
+# Process your data
 status_counts = df['status'].value_counts().reset_index()
 status_counts.columns = ['Status', 'Count']
 
-country_counts = df['country'].value_counts().head(5).reset_index()
+country_counts = df['country'].value_counts().head(10).reset_index()
 country_counts.columns = ['Country', 'Count']
 
-# Handle potential empty cells in as_name
-as_counts = df['as_name'].dropna().value_counts().head(5).reset_index()
+as_counts = df['as_name'].dropna().value_counts().head(10).reset_index()
 as_counts.columns = ['Organization', 'Count']
 
-# 3. Create individual charts with Cyberpunk colors
+# Color schemes
 colors = ['#00FFFF', '#BF00FF', '#FF0055', '#FFD700', '#00FF00']
 
-fig_pie = px.pie(status_counts, values='Count', names='Status', hole=0.4, color_discrete_sequence=colors)
-
-# FIXED: Using solid neon colors instead of gradients
-fig_country = px.bar(country_counts, x='Country', y='Count', color_discrete_sequence=['#00FFFF'])
-fig_asn = px.bar(as_counts, x='Organization', y='Count', color_discrete_sequence=['#BF00FF'])
-
-# 4. Combine them into ONE dashboard
-dashboard = make_subplots(
-    rows=1, cols=3, 
-    specs=[[{'type':'domain'}, {'type':'xy'}, {'type':'xy'}]],
-    subplot_titles=('IP Status (Alive vs Dead)', 'Top 5 Countries', 'Top 5 Organizations')
-)
-
-# Add the charts to the dashboard
-dashboard.add_trace(fig_pie.data[0], row=1, col=1)
-dashboard.add_trace(fig_country.data[0], row=1, col=2)
-dashboard.add_trace(fig_asn.data[0], row=1, col=3)
-
-# 5. Make it look awesome (Dark Mode)
-dashboard.update_layout(
+# =============================================================================
+# CHART 1: IP Status (Pie Chart)
+# =============================================================================
+fig1 = px.pie(status_counts, values='Count', names='Status', hole=0.4, 
+              color_discrete_sequence=colors,
+              title=' IP Status Distribution (Alive vs Dead)')
+fig1.update_layout(
     height=600,
-    title_text="🌐 Global IP Address Analytics Dashboard",
-    title_font_size=28,
-    title_font_color='#00FFFF',
-    paper_bgcolor='#0a0a0a', # Dark background
-    plot_bgcolor='#1a1a2e',  # Slightly lighter panel background
-    font_color='white',
-    showlegend=False
+    paper_bgcolor='#0a0a0a',
+    font=dict(color='white', size=14),
+    title_font=dict(color='#00FFFF', size=24)
 )
+fig1.write_html('chart_1_ip_status.html')
+print("✅ Created: chart_1_ip_status.html")
 
-# 6. Save it as a file you can just double-click!
-dashboard.write_html('my_ip_dashboard.html')
-print("✅ SUCCESS! Your dashboard is ready.")
-print("👉 Look in your folder for a file named 'my_ip_dashboard.html' and double-click it!")
+# =============================================================================
+# CHART 2: Top Countries (Bar Chart)
+# =============================================================================
+fig2 = px.bar(country_counts, x='Country', y='Count', 
+              color='Count',
+              color_continuous_scale='blues',
+              title='🌍 Top 10 Countries by IP Count')
+fig2.update_layout(
+    height=600,
+    paper_bgcolor='#0a0a0a',
+    plot_bgcolor='#1a1a2e',
+    font=dict(color='white', size=12),
+    title_font=dict(color='#00FFFF', size=24),
+    xaxis=dict(color='white'),
+    yaxis=dict(color='white')
+)
+fig2.write_html('chart_2_countries.html')
+print("✅ Created: chart_2_countries.html")
+
+# =============================================================================
+# CHART 3: Top Organizations (Bar Chart)
+# =============================================================================
+fig3 = px.bar(as_counts, x='Organization', y='Count',
+              color='Count',
+              color_continuous_scale='magenta',
+              title='🏢 Top 10 Organizations by IP Count')
+fig3.update_layout(
+    height=600,
+    paper_bgcolor='#0a0a0a',
+    plot_bgcolor='#1a1a2e',
+    font=dict(color='white', size=12),
+    title_font=dict(color='#BF00FF', size=24),
+    xaxis=dict(color='white', tickangle=45),
+    yaxis=dict(color='white')
+)
+fig3.write_html('chart_3_organizations.html')
+print("✅ Created: chart_3_organizations.html")
+
+print("\n🎉 All 3 charts created successfully!")
+print("👉 Open each HTML file in your browser to view them separately")
