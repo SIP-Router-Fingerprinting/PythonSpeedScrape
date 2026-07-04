@@ -1,74 +1,47 @@
 import pandas as pd
-import plotly.express as px
+import matplotlib.pyplot as plt
 
-# Load your CSV file
+# 1. Load data
+print("Loading data... this might take a minute.")
 df = pd.read_csv('results_enriched.csv')
 
-# Process your data
-status_counts = df['status'].value_counts().reset_index()
-status_counts.columns = ['Status', 'Count']
+# 2. Helper function to get Top N
+def get_top_n(column_name, n=20):
+    return df[column_name].value_counts().head(n)
 
-country_counts = df['country'].value_counts().head(10).reset_index()
-country_counts.columns = ['Country', 'Count']
+# 3. Get the data
+print("Processing data...")
+status_data = get_top_n('status', n=5) 
+country_data = get_top_n('country', n=20) 
+as_data = get_top_n('as_name', n=20) 
 
-as_counts = df['as_name'].dropna().value_counts().head(10).reset_index()
-as_counts.columns = ['Organization', 'Count']
+print("Drawing clean charts...")
 
-# Color schemes
-colors = ['#00FFFF', '#BF00FF', '#FF0055', '#FFD700', '#00FF00']
+# Function to draw a beautiful, clean bar chart
+def draw_clean_bar(data, title, filename, colors=None):
+    plt.figure(figsize=(10, 6)) 
+    
+    # If no colors are provided, use the default blue
+    if colors is None:
+        colors = ['#36A2EB'] * len(data)
+            
+    plt.barh(range(len(data)), data.values, color=colors, height=0.6)
+    plt.gca().invert_yaxis() 
+    plt.yticks(range(len(data)), data.index, fontsize=11)
+    plt.xlabel('Count', fontsize=12, fontweight='bold')
+    plt.title(title, fontsize=14, fontweight='bold', pad=15)
+    plt.grid(axis='x', linestyle='--', alpha=0.6)
+    plt.tight_layout()
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
+    plt.show()
 
-# =============================================================================
-# CHART 1: IP Status (Pie Chart)
-# =============================================================================
-fig1 = px.pie(status_counts, values='Count', names='Status', hole=0.4, 
-              color_discrete_sequence=colors,
-              title=' IP Status Distribution (Alive vs Dead)')
-fig1.update_layout(
-    height=600,
-    paper_bgcolor='#0a0a0a',
-    font=dict(color='white', size=14),
-    title_font=dict(color='#00FFFF', size=24)
-)
-fig1.write_html('chart_1_ip_status.html')
-print("✅ Created: chart_1_ip_status.html")
+# --- DRAW THE 3 CHARTS ---
 
-# =============================================================================
-# CHART 2: Top Countries (Bar Chart)
-# =============================================================================
-fig2 = px.bar(country_counts, x='Country', y='Count', 
-              color='Count',
-              color_continuous_scale='blues',
-              title='🌍 Top 10 Countries by IP Count')
-fig2.update_layout(
-    height=600,
-    paper_bgcolor='#0a0a0a',
-    plot_bgcolor='#1a1a2e',
-    font=dict(color='white', size=12),
-    title_font=dict(color='#00FFFF', size=24),
-    xaxis=dict(color='white'),
-    yaxis=dict(color='white')
-)
-fig2.write_html('chart_2_countries.html')
-print("✅ Created: chart_2_countries.html")
+# Status gets Green (#2ECC71) and Red (#E74C3C)
+draw_clean_bar(status_data, 'Status Distribution', 'status_clean.png', colors=['#2ECC71', '#E74C3C'])
 
-# =============================================================================
-# CHART 3: Top Organizations (Bar Chart)
-# =============================================================================
-fig3 = px.bar(as_counts, x='Organization', y='Count',
-              color='Count',
-              color_continuous_scale='magenta',
-              title='🏢 Top 10 Organizations by IP Count')
-fig3.update_layout(
-    height=600,
-    paper_bgcolor='#0a0a0a',
-    plot_bgcolor='#1a1a2e',
-    font=dict(color='white', size=12),
-    title_font=dict(color='#BF00FF', size=24),
-    xaxis=dict(color='white', tickangle=45),
-    yaxis=dict(color='white')
-)
-fig3.write_html('chart_3_organizations.html')
-print("✅ Created: chart_3_organizations.html")
+# Country and AS get the default blue
+draw_clean_bar(country_data, 'Top 20 Countries', 'country_clean.png')
+draw_clean_bar(as_data, 'Top 20 AS Names', 'as_clean.png')
 
-print("\n🎉 All 3 charts created successfully!")
-print("👉 Open each HTML file in your browser to view them separately")
+print("Done! Check your folder for the clean images.")
