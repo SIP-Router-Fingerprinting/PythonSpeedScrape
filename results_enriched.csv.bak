@@ -1,0 +1,1775 @@
+ip,status,country,country_code,continent,continent_code,asn,as_name,as_domain
+1.0.0.1,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.0.0.2,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.0.0.11,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.0.7.242,alive,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.0.7.249,alive,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.0.10.2,dead,China,CN,Asia,AS,,,
+1.0.16.14,dead,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.0.33.1,dead,China,CN,Asia,AS,,,
+1.0.128.4,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.128.9,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.128.181,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.132.126,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.132.127,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.132.132,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.132.134,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.138.141,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.141.225,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.166.35,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.166.69,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.166.136,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.166.145,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.1,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.39,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.63,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.80,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.171,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.175,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.238,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.170.30,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.170.31,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.170.184,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.202.28,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.202.150,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.202.206,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.203.21,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.203.38,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.203.103,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.203.134,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.216.10,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.216.71,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.216.133,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.218.1,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.218.44,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.218.45,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.218.54,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.218.64,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.218.203,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.221.20,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.0.1,dead,China,CN,Asia,AS,,,
+1.1.0.3,dead,China,CN,Asia,AS,,,
+1.1.0.14,dead,China,CN,Asia,AS,,,
+1.1.0.226,dead,China,CN,Asia,AS,,,
+1.1.1.1,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.2,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.3,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.4,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.5,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.6,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.10,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.13,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.14,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.17,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.18,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.21,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.22,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.42,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.57,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.77,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.86,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.100,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.136,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.194,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.197,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.198,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.221,alive,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.222,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.248,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.249,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.250,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.1.252,dead,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.2.1,dead,China,CN,Asia,AS,,,
+1.1.2.9,dead,China,CN,Asia,AS,,,
+1.1.2.10,dead,China,CN,Asia,AS,,,
+1.1.2.18,dead,China,CN,Asia,AS,,,
+1.1.2.22,dead,China,CN,Asia,AS,,,
+1.1.2.45,dead,China,CN,Asia,AS,,,
+1.1.2.57,dead,China,CN,Asia,AS,,,
+1.1.2.109,dead,China,CN,Asia,AS,,,
+1.1.2.110,dead,China,CN,Asia,AS,,,
+1.1.2.129,dead,China,CN,Asia,AS,,,
+1.1.3.1,dead,China,CN,Asia,AS,,,
+1.1.3.2,dead,China,CN,Asia,AS,,,
+1.1.3.3,dead,China,CN,Asia,AS,,,
+1.1.3.110,dead,China,CN,Asia,AS,,,
+1.1.3.158,dead,China,CN,Asia,AS,,,
+1.1.3.161,dead,China,CN,Asia,AS,,,
+1.1.5.1,dead,China,CN,Asia,AS,,,
+1.1.5.2,dead,China,CN,Asia,AS,,,
+1.1.6.21,dead,China,CN,Asia,AS,,,
+1.1.6.22,dead,China,CN,Asia,AS,,,
+1.1.6.54,dead,China,CN,Asia,AS,,,
+1.1.6.62,dead,China,CN,Asia,AS,,,
+1.1.10.1,dead,China,CN,Asia,AS,,,
+1.1.10.2,dead,China,CN,Asia,AS,,,
+1.1.10.5,dead,China,CN,Asia,AS,,,
+1.1.15.2,dead,China,CN,Asia,AS,,,
+1.1.20.2,dead,China,CN,Asia,AS,,,
+1.1.20.22,dead,China,CN,Asia,AS,,,
+1.1.33.2,dead,China,CN,Asia,AS,,,
+1.1.61.1,dead,China,CN,Asia,AS,,,
+1.1.148.110,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.151,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.153,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.154,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.160,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.181,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.182,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.195,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.149.207,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.176.21,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.176.33,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.176.34,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.176.118,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.176.127,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.176.153,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.31,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.63,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.84,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.94,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.97,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.166,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.167,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.178.171,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.179.64,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.180.226,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.183.42,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.183.51,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.183.55,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.183.63,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.183.66,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.189.62,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.189.82,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.220.150,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.220.166,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.224.2,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.225.40,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.231.221,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.1.2,dead,China,CN,Asia,AS,,,
+1.2.3.4,dead,Australia,AU,Oceania,OC,,,
+1.2.3.6,dead,Australia,AU,Oceania,OC,,,
+1.2.48.129,dead,China,CN,Asia,AS,,,
+1.2.48.130,dead,China,CN,Asia,AS,,,
+1.2.161.181,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.168.201,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.168.249,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.236.24,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.236.26,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.236.127,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.236.136,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.236.140,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.236.157,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.248.64,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.248.65,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.249.198,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.252.1,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.252.16,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.252.46,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.252.82,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.252.178,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.2.252.194,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.3.4.3,dead,China,CN,Asia,AS,,,
+1.4.42.4,dead,China,CN,Asia,AS,,,
+1.4.157.1,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.157.4,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.157.25,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.157.41,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.157.93,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.157.122,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.159.230,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.194.49,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.194.199,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.194.243,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.198.117,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.212.12,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.212.96,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.212.130,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.212.142,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.212.219,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.213.36,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.213.78,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.214.52,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.214.128,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.214.145,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.214.183,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.214.192,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.214.193,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.215.1,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.215.45,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.215.60,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.215.61,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.215.106,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.222.1,alive,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.4.222.179,dead,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.6.0.26,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.0.159,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.0.197,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.1.144,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.1.181,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.1.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.102,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.197,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.3.38,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.3.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.3.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.3.157,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.3.197,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.11,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.101,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.237,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.5.21,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.5.72,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.5.137,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.6.146,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.6.168,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.7.37,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.7.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.8.145,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.8.195,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.9.173,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.10.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.10.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.10.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.10.232,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.11.105,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.11.108,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.11.212,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.11.230,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.12.38,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.12.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.12.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.13.25,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.13.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.14.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.14.114,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.14.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.14.194,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.15.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.16.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.17.11,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.17.13,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.18.18,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.18.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.18.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.18.201,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.18.207,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.19.153,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.35,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.20.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.22.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.22.97,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.22.218,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.23.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.23.153,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.24.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.24.193,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.25.40,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.25.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.25.223,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.25.250,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.166,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.181,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.183,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.205,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.217,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.26.219,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.27.63,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.27.86,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.27.156,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.27.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.28.126,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.28.201,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.29.39,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.29.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.29.239,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.30.233,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.31.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.32.37,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.32.84,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.32.87,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.32.89,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.32.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.33.245,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.34.236,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.35.121,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.40.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.40.184,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.40.188,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.40.189,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.40.191,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.41.32,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.41.82,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.41.158,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.41.159,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.41.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.42.112,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.42.205,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.42.222,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.42.223,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.43.118,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.43.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.44.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.44.253,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.44.255,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.45.21,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.45.60,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.45.89,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.45.120,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.45.121,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.45.205,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.46.29,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.47.133,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.48.227,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.52.89,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.52.139,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.52.161,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.52.165,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.52.167,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.53.81,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.54.251,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.55.183,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.56.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.56.167,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.56.198,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.57.251,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.59.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.59.154,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.61.202,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.61.207,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.65.122,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.65.245,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.66.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.66.249,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.66.251,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.67.77,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.67.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.67.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.67.115,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.67.191,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.68.38,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.68.197,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.69.218,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.66,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.67,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.153,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.154,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.233,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.70.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.72.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.72.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.72.93,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.72.101,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.72.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.72.233,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.73.159,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.73.241,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.74.59,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.74.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.74.167,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.74.251,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.74.255,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.75.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.75.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.75.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.75.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.77.184,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.78.198,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.78.226,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.79.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.80.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.81.197,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.82.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.84.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.84.131,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.85.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.85.232,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.86.28,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.87.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.88.81,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.88.184,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.88.198,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.89.37,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.89.76,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.89.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.180,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.196,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.234,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.90.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.91.39,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.93.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.94.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.95.116,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.95.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.95.161,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.95.253,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.97.34,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.97.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.98.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.98.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.100.16,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.100.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.100.119,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.101.2,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.101.103,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.101.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.102.78,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.102.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.102.197,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.102.218,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.102.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.103.79,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.103.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.104.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.104.105,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.104.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.104.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.104.182,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.107.3,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.108.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.108.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.109.38,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.109.114,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.109.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.109.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.110.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.110.226,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.111.72,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.111.75,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.111.114,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.111.157,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.34,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.37,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.106,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.198,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.112.232,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.113.37,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.113.114,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.113.234,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.113.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.114.74,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.114.76,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.114.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.114.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.115.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.115.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.116.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.117.101,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.117.103,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.117.138,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.117.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.118.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.118.134,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.119.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.119.123,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.119.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.120.30,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.120.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.120.196,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.120.197,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.120.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.121.123,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.121.238,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.122.99,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.123.66,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.25,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.27,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.31,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.129,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.133,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.215,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.217,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.221,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.127.251,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.128.26,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.128.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.128.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.128.86,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.129.98,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.129.131,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.129.134,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.130.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.130.94,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.130.207,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.18,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.19,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.37,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.39,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.101,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.131.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.132.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.132.228,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.133.141,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.133.152,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.9,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.13,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.71,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.129,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.187,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.193,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.134.237,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.135.2,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.135.134,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.135.214,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.135.232,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.136.17,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.136.97,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.136.149,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.136.150,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.136.156,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.136.161,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.137.49,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.55,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.129,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.131,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.193,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.197,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.199,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.249,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.137.251,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.37,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.156,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.193,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.194,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.237,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.139.81,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.139.83,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.139.159,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.139.250,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.141.39,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.141.195,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.142.2,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.142.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.143.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.143.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.144.32,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.144.74,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.144.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.144.241,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.145.107,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.145.151,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.146.37,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.146.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.146.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.146.169,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.146.241,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.24,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.72,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.88,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.124,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.132,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.184,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.147.204,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.148.4,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.148.89,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.148.94,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.148.95,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.149.183,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.150.7,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.150.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.150.241,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.151.239,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.152.161,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.152.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.154.37,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.154.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.154.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.154.181,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.156.25,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.156.26,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.158.53,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.158.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.158.74,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.158.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.27,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.29,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.59,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.61,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.191,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.234,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.236,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.159.251,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.160.34,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.160.45,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.160.77,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.160.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.162.63,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.162.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.162.154,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.163.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.163.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.163.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.163.241,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.164.37,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.164.93,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.164.164,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.164.185,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.165.65,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.165.245,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.165.249,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.166.7,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.166.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.166.197,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.166.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.4,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.20,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.72,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.84,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.104,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.116,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.136,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.152,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.184,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.204,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.167.212,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.168.36,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.168.129,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.168.131,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.168.133,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.168.135,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.168.211,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.169.225,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.35,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.52,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.77,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.170.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.171.43,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.171.203,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.171.205,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.172.25,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.172.27,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.172.71,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.172.229,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.39,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.119,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.197,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.173.253,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.177,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.179,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.219,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.222,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.228,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.240,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.174.247,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.14,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.25,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.27,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.122,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.198,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.176.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.178.250,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.179.154,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.179.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.179.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.180.144,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.180.185,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.180.191,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.181.140,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.183.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.183.161,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.183.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.185.119,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.185.158,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.187.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.190.34,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.190.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.191.77,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.191.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.191.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.191.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.194.5,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.194.71,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.194.186,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.4,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.124,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.132,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.152,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.164,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.184,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.221,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.195.232,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.196.43,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.196.129,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.196.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.196.229,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.197.89,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.199.89,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.200.8,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.201.72,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.204.34,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.204.77,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.204.100,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.204.124,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.204.132,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.204.152,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.206.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.206.69,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.206.107,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.206.147,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.206.191,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.207.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.207.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.207.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.207.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.207.223,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.207.243,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.208.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.208.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.208.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.209.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.209.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.209.117,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.209.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.209.153,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.210.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.210.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.210.215,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.211.0,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.211.7,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.211.117,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.211.161,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.211.167,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.211.217,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.15,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.110,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.145,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.147,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.212.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.19,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.23,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.82,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.83,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.91,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.95,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.97,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.213.238,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.214.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.214.47,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.214.109,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.214.167,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.214.210,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.215.54,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.215.83,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.215.86,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.215.118,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.216.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.216.167,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.216.243,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.217.1,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.217.135,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.218.104,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.218.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.218.182,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.218.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.218.217,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.220.194,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.220.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.220.243,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.34,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.38,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.154,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.185,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.188,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.222.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.223.81,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.224.187,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.224.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.225.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.228.89,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.229.89,alive,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
+1.6.231.43,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.89,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.91,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.93,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.95,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.129,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.133,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.167,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.231.227,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.42,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.43,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.45,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.203,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.242,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.243,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.247,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.233.57,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.235.78,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.235.110,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.237.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.239.48,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.239.82,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.239.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.239.221,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.240.54,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.240.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.245.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.245.204,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.245.220,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.246.18,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.246.20,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.247.116,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.247.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.247.204,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.250.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.250.223,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.8,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.35,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.44,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.55,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.158,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.168,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.178,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.251.211,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.253.243,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.8,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.58,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.64,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.70,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.110,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.112,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.254.132,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.255.88,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.255.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.3.101,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.3.102,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.3.137,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.3.161,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.9,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.11,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.69,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.70,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.97,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.214,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.31,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.69,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.133,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.159,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.187,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.205,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.5.230,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.6.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.6.241,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.7.63,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.7.107,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.16.2,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.16.65,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.16.67,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.17.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.17.71,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.17.74,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.17.222,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.11,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.93,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.209,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.210,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.19.214,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.17,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.18,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.23,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.92,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.131,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.133,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.20.169,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.21.7,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.21.47,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.21.82,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.21.142,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.21.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.22.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.22.209,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.22.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.23.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.23.209,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.24.213,dead,India,IN,Asia,AS,AS133388,IMS Health India Pvt Ltd,imshealth.com
+1.7.25.40,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.25.119,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.25.204,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.25.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.26.15,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.26.54,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.26.114,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.26.133,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.27.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.27.86,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.27.198,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.28.45,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.28.66,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.28.103,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.28.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.29.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.29.158,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.29.162,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.29.191,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.29.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.30.2,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.30.18,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.30.112,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.30.188,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.31.52,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.31.70,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.18,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.96,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.98,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.120,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.125,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.158,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.190,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.33.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.33.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.33.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.6,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.24,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.30,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.66,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.68,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.110,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.140,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.143,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.172,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.34.174,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.2,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.4,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.32,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.36,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.96,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.142,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.182,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.192,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.194,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.35.236,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.6,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.52,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.88,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.94,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.134,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.168,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.194,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.196,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.198,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.251,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.36.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.4,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.6,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.92,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.110,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.170,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.208,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.240,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.244,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.37.246,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.2,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.44,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.83,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.108,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.151,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.225,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.226,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.38.244,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.32,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.36,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.107,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.108,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.143,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.170,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.39.196,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.40.26,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.40.48,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.40.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.40.243,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.48,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.96,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.133,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.176,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.219,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.41.225,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.72,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.76,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.78,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.146,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.184,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.42.230,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.11,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.15,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.43,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.80,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.122,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.166,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.43.229,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.42,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.46,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.76,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.78,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.138,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.170,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.44.172,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.10,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.82,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.146,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.198,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.218,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.223,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.237,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.45.242,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.46.19,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.46.22,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.46.114,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.46.162,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.46.178,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.46.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.13,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.52,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.82,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.86,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.97,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.101,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.181,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.182,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.206,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.250,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.253,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.47.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.5,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.52,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.116,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.159,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.192,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.218,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.222,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.83,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.87,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.105,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.111,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.185,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.187,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.49.242,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.13,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.93,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.120,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.214,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.242,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.50.246,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.51.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.51.87,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.51.171,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.51.173,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.51.188,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.52.207,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.52.254,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.53.42,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.53.130,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.54.4,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.54.159,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.54.190,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.31,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.65,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.158,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.169,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.173,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.237,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.81.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.82.31,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.82.123,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.82.160,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.83.5,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.83.7,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.83.54,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.83.250,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.83.253,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.29,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.99,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.102,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.130,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.252,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.85.35,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.85.203,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.85.225,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.86.86,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.86.205,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.87.80,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.87.81,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.87.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.87.86,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.87.87,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.88.166,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.123,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.145,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.174,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.177,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.178,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.89.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.90.66,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.90.170,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.90.186,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.90.229,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.91.157,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.92.47,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.92.80,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.92.82,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.92.189,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.93.8,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.93.13,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.93.81,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.93.114,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.93.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.93.121,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.95.54,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.95.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.95.138,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.96.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.97.58,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.97.157,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.97.220,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.97.222,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.98.62,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.99.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.99.151,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.99.236,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.99.237,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.40,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.41,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.172,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.173,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.174,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.100.219,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.101.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.101.250,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.101.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.102.34,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.102.147,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.102.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.102.238,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.43,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.109,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.139,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.143,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.103.180,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.104.43,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.104.91,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.104.94,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.104.122,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.104.126,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.105.34,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.105.38,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.105.83,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.105.110,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.105.124,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.105.127,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.2,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.27,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.62,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.76,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.92,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.116,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.142,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.131.193,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.132.51,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.132.141,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.133.89,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.133.131,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.133.211,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.133.213,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.133.253,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.198,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.239,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.245,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.134.249,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.135.167,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.138.121,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.138.161,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.139.10,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.139.74,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.139.87,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.139.121,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.139.251,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.140.147,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.141.98,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.141.134,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.141.206,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.142.157,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.143.162,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.143.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.143.177,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.143.181,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.37,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.113,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.191,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.207,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.144.218,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.145.203,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.145.205,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.145.253,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.55,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.81,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.82,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.92,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.93,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.114,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.235,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.239,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.146.251,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.147.98,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.147.165,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.150.21,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.150.215,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.151.194,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.152.99,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.101,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.127,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.197,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.202,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.204,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.251,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.152.253,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.153.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.153.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.153.201,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.154.91,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.154.93,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.154.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.155.14,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.155.22,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.155.99,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.155.139,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.155.179,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.155.217,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.156.141,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.156.143,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.69,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.71,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.139,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.141,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.185,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.187,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.189,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.191,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.157.217,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.161,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.163,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.165,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.169,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.177,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.214,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.217,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.158.221,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.159.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.159.43,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.159.45,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.159.47,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.159.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.159.229,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.53,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.107,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.108,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.109,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.111,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.146,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.147,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.160.242,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.162.193,alive,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.163.19,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.163.183,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.163.207,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.25,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.27,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.65,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.97,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.105,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.131,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.169,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.170,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.173,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.174,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.193,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.164.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.165.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.165.43,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.165.150,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.165.151,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.166.16,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.166.113,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.166.114,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.166.145,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.167.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.167.217,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.167.218,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.168.23,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.168.81,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.168.98,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.168.162,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.168.166,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.168.174,dead,Singapore,SG,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.169.139,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.169.211,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.170.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.170.190,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.170.225,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.171.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.171.169,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.172.25,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.172.27,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.172.83,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.172.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.172.225,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.173.7,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.173.53,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.174.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.174.73,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.174.169,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.174.175,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.175.9,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.176.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.176.143,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.177.166,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.177.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.179.88,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.179.95,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.179.128,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.181.81,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.182.133,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.183.161,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.183.174,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.183.243,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.183.245,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.184.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.184.180,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.184.231,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.184.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.17,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.29,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.75,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.101,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.161,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.185.173,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.186.23,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.186.95,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.186.253,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.188.82,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.188.233,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.9,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.43,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.46,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.107,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.109,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.115,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.119,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.162,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.169,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.175,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.189.207,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.192.10,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.192.125,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.192.131,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.192.234,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.193.131,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.194.70,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.194.81,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.194.129,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.194.130,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.194.203,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.194.226,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.195.72,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.195.98,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.195.147,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.196.160,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.196.214,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.197.1,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.197.156,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.198.166,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.199.38,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.199.46,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.199.99,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.199.203,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.200.4,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.200.20,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.200.36,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.202.68,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.202.84,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.202.148,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.202.164,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.202.180,dead,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.7.204.33,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.39,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.155,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.159,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.199,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.204.237,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.206.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.206.78,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.206.213,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.206.241,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.207.38,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.207.67,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.207.153,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.207.163,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.207.165,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.207.167,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.208.42,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.208.47,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.208.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.209.23,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.209.171,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.210.17,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.210.19,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.210.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.210.183,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.210.189,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.210.191,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.211.87,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.211.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.211.195,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.211.199,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.211.205,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.212.30,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.212.248,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.77,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.79,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.122,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.155,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.178,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.182,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.213.186,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.216.81,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.216.85,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.216.123,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.217.83,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.217.133,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.217.135,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.217.217,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.218.6,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.218.54,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.220.41,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.220.121,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.220.122,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.220.125,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.220.235,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.221.69,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.222.33,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.222.35,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.222.37,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.222.39,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.222.48,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.222.74,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.224.129,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.224.130,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.226.79,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.229.90,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.229.117,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.229.118,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.230.129,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.230.138,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.230.141,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.230.175,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.230.209,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.231.115,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.231.119,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.231.153,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.231.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.233.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.233.145,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.233.151,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.233.161,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.234.193,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.234.195,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.235.34,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.235.73,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.235.87,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.236.234,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.237.187,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.237.202,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.237.216,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.237.227,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.240.75,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.240.158,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.240.198,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.241.157,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.241.221,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.242.114,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.242.157,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.243.209,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.243.212,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.243.213,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.243.252,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.244.231,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.244.250,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.244.254,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.245.0,alive,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.245.1,dead,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.8.1.26,dead,China,CN,Asia,AS,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
+1.8.1.126,dead,China,CN,Asia,AS,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
+1.8.1.130,dead,China,CN,Asia,AS,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
+1.8.1.134,dead,China,CN,Asia,AS,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
+1.8.2.18,dead,China,CN,Asia,AS,,,
+1.8.2.22,dead,China,CN,Asia,AS,,,
+1.8.2.25,dead,China,CN,Asia,AS,,,
+1.8.2.26,dead,China,CN,Asia,AS,,,
+1.8.2.34,dead,China,CN,Asia,AS,,,
+1.8.2.38,dead,China,CN,Asia,AS,,,
+1.8.2.62,dead,China,CN,Asia,AS,,,
+1.8.2.66,dead,China,CN,Asia,AS,,,
+1.8.2.74,dead,China,CN,Asia,AS,,,
+1.8.2.82,dead,China,CN,Asia,AS,,,
+1.8.2.122,dead,China,CN,Asia,AS,,,
+1.8.2.170,dead,China,CN,Asia,AS,,,
+1.8.2.186,dead,China,CN,Asia,AS,,,
+1.8.3.22,dead,China,CN,Asia,AS,,,
+1.8.3.30,dead,China,CN,Asia,AS,,,
+1.8.4.30,dead,China,CN,Asia,AS,,,
+1.8.4.46,dead,China,CN,Asia,AS,,,
+1.8.4.82,dead,China,CN,Asia,AS,,,
+1.8.6.30,dead,China,CN,Asia,AS,,,
+1.8.6.34,dead,China,CN,Asia,AS,,,
+1.8.8.6,dead,China,CN,Asia,AS,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
+1.8.10.10,dead,China,CN,Asia,AS,,,
+1.8.10.22,dead,China,CN,Asia,AS,,,
+1.8.10.26,dead,China,CN,Asia,AS,,,
+1.8.10.29,dead,China,CN,Asia,AS,,,
+1.8.10.30,dead,China,CN,Asia,AS,,,
+1.8.10.46,dead,China,CN,Asia,AS,,,
+1.8.10.50,dead,China,CN,Asia,AS,,,
+1.8.10.66,dead,China,CN,Asia,AS,,,
+1.8.10.70,dead,China,CN,Asia,AS,,,
+1.8.13.6,dead,China,CN,Asia,AS,,,
+1.8.14.5,dead,China,CN,Asia,AS,,,
+1.8.14.6,dead,China,CN,Asia,AS,,,
+1.8.14.10,dead,China,CN,Asia,AS,,,
+1.8.14.13,dead,China,CN,Asia,AS,,,
+1.8.14.14,dead,China,CN,Asia,AS,,,
+1.9.2.20,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.2.146,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.2.178,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.4.1,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.4.65,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.4.129,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.7.174,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.7.182,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.14.50,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.14.66,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.38,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.50,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.62,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.86,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.90,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.150,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.178,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.190,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.198,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.210,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.234,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.21.246,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.25.195,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.28.6,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.26,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.38,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.50,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.66,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.82,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.86,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.89,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.102,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.106,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.114,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.118,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.130,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.206,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.222,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.32.246,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.9,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.138,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.150,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.158,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.178,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.198,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.230,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.242,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.33.246,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.35.180,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.6,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.38,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.50,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.66,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.70,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.82,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.86,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.90,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.102,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.106,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.110,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.122,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.130,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.138,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.166,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.178,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.210,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.38.214,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.18,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.30,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.42,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.54,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.73,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.78,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.86,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.98,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.106,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.126,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.130,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.165,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.166,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.174,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.178,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.194,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.198,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.206,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.210,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.214,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.39.230,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.40.254,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.33,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.37,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.73,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.145,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.149,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.213,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.225,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.44.245,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.45.9,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.45.29,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.45.69,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.45.113,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.45.137,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.46.9,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.46.89,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.46.145,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.46.217,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.46.233,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.46.249,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.47.1,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.47.153,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.47.161,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.47.185,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.47.233,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.13,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.25,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.29,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.37,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.81,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.109,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.133,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.165,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.169,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.193,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.48.197,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.49.1,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.49.133,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.49.177,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.49.189,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.1,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.17,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.53,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.105,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.161,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.177,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.50.249,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.51.137,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.51.213,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.51.237,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.51.245,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.52.254,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.53.254,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.54.254,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.55.254,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.58.125,alive,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.58.226,dead,Malaysia,MY,Asia,AS,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
