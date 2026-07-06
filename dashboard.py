@@ -38,10 +38,10 @@ def draw_clean_bar(data, title, filename, colors=None):
 # --- DRAW THE 3 CHARTS ---
 
 # Status gets Green (#2ECC71) and Red (#E74C3C)
-draw_clean_bar(status_data, 'Status Distribution', 'status_clean.png', colors=['#2ECC71', '#E74C3C'])
+draw_clean_bar(status_data, 'Status Distribution', 'status_clean.png', colors=['#E74C3C', '#2ECC71'])
 
 # Country and AS get the default blue
-draw_clean_bar(country_data, 'Top 10 Countries', 'country_clean.png')
+draw_clean_bar(country_data, 'Top 10 Countries', 'country_clean.png', colors=['#36A2EB'] * len(country_data))
 draw_clean_bar(as_data, 'Top 10 AS Names', 'as_clean.png')
 
 print("Done! Check your folder for the clean images.")
