@@ -6,14 +6,14 @@ print("Loading data... this might take a minute.")
 df = pd.read_csv('results_enriched.csv')
 
 # 2. Helper function to get Top N
-def get_top_n(column_name, n=20):
+def get_top_n(column_name, n=10):
     return df[column_name].value_counts().head(n)
 
 # 3. Get the data
 print("Processing data...")
 status_data = get_top_n('status', n=5) 
-country_data = get_top_n('country', n=20) 
-as_data = get_top_n('as_name', n=20) 
+country_data = get_top_n('country', n=10) 
+as_data = get_top_n('as_name', n=10) 
 
 print("Drawing clean charts...")
 
@@ -41,7 +41,7 @@ def draw_clean_bar(data, title, filename, colors=None):
 draw_clean_bar(status_data, 'Status Distribution', 'status_clean.png', colors=['#2ECC71', '#E74C3C'])
 
 # Country and AS get the default blue
-draw_clean_bar(country_data, 'Top 20 Countries', 'country_clean.png')
-draw_clean_bar(as_data, 'Top 20 AS Names', 'as_clean.png')
+draw_clean_bar(country_data, 'Top 10 Countries', 'country_clean.png')
+draw_clean_bar(as_data, 'Top 10 AS Names', 'as_clean.png')
 
 print("Done! Check your folder for the clean images.")
