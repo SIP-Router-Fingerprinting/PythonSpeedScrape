@@ -15,11 +15,13 @@ status_data = get_top_n('status', n=5)
 country_data = get_top_n('country', n=10) 
 as_data = get_top_n('as_name', n=10) 
 
-print("Drawing clean charts...")
+print("Drawing transparent charts...")
 
-# Function to draw a beautiful, clean bar chart
+# Function to draw a beautiful, clean bar chart WITH TRANSPARENT BACKGROUND
 def draw_clean_bar(data, title, filename, colors=None):
-    plt.figure(figsize=(10, 6)) 
+    plt.figure(figsize=(10, 6), facecolor='none')  # Transparent figure
+    ax = plt.gca()
+    ax.set_facecolor('none')  # Transparent axes
     
     # If no colors are provided, use the default blue
     if colors is None:
@@ -27,12 +29,12 @@ def draw_clean_bar(data, title, filename, colors=None):
             
     plt.barh(range(len(data)), data.values, color=colors, height=0.6)
     plt.gca().invert_yaxis() 
-    plt.yticks(range(len(data)), data.index, fontsize=11)
-    plt.xlabel('Count', fontsize=12, fontweight='bold')
-    plt.title(title, fontsize=14, fontweight='bold', pad=15)
-    plt.grid(axis='x', linestyle='--', alpha=0.6)
+    plt.yticks(range(len(data)), data.index, fontsize=11, color='white')  # White text
+    plt.xlabel('Count', fontsize=12, fontweight='bold', color='white')  # White text
+    plt.title(title, fontsize=14, fontweight='bold', pad=15, color='white')  # White text
+    plt.grid(axis='x', linestyle='--', alpha=0.3)  # Subtle grid
     plt.tight_layout()
-    plt.savefig(filename, dpi=300, bbox_inches='tight')
+    plt.savefig(filename, dpi=300, bbox_inches='tight', transparent=True)  # Transparent save
     plt.show()
 
 # --- DRAW THE 3 CHARTS ---
@@ -41,7 +43,7 @@ def draw_clean_bar(data, title, filename, colors=None):
 draw_clean_bar(status_data, 'Status Distribution', 'status_clean.png', colors=['#E74C3C', '#2ECC71'])
 
 # Country and AS get the default blue
-draw_clean_bar(country_data, 'Top 10 Countries', 'country_clean.png', colors=['#36A2EB'] * len(country_data))
+draw_clean_bar(country_data, 'Top 10 Countries', 'country_clean.png')
 draw_clean_bar(as_data, 'Top 10 AS Names', 'as_clean.png')
 
-print("Done! Check your folder for the clean images.")
+print("Done! Check your folder for the transparent images.")
